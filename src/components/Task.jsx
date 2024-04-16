@@ -1,4 +1,3 @@
-// Task.jsx
 import React, { useState } from "react";
 
 function Task({ tasks, onAddTask, onRemoveTask }) {
