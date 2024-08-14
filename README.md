@@ -39,3 +39,8 @@ npm run dev
 1. Enter a task in the input field and press "Add" or press Enter to add it to the list.
 3. View all added tasks in the list.
 4. To delete a task, click the "X" button next to the task.
+
+## Contributing
+Contributions are welcome! Feel free to fork the repository and submit pull requests with your enhancements.
+
+
