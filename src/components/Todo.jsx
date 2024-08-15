@@ -66,4 +66,4 @@ function App() {
 }
 
 export default App;
-// after login with arc.io again again
+// after login with arc.io again again add all paramerter in url for crendential
