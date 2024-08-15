@@ -29,4 +29,4 @@ jobs:
       uses: azure/webapps-deploy@v2
       with:
         app-name: ${{ secrets.AZURE_WEBAPP_NAME }}
-        images: ${{ secrets.Ad }}/todo:v1
+        images: ${{ secrets.AZURE_ACR_LOGIN_SERVER }}/todo:v1
